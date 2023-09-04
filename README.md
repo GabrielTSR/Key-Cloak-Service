@@ -1,3 +1,5 @@
-#Open ID Connect
+# Open ID Connect
 
-# OAuth2 - Autorização
+# OAuth2 - Autorização | Autenticação
+
+JWT -> assinatura RSA - chave pública | chave privada
